@@ -1,5 +1,5 @@
 # Visualizing-Word-Frequency-In-Julius-Caesar
-In this prohject we are going to find answer of 
+In this project we are going to find answer of 
 <b>What are the most frequent words in Julius Caesar by Shakespeare , and how often do they occur?</b>
 
 * In this notebook, we'll scrape the novel <em>Julius Caesar</em> from the website <a href="https://www.gutenberg.org/">Project Gutenberg</a> (which contains a large corpus of books) using the Python package <code>requests</code>. 
